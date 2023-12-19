@@ -51,6 +51,7 @@ Ejecuta el script principal para comenzar a interactuar con la API de Spotify:
 - Crear Lista de Reproducción: Crea una lista de reproducción personalizada.
 - Contribuciones
 
-
+## WIKI
+Accede a la wiki desde este enlace [WIKI](https://github.com/xuquermrtinez05/SpotiInfo/wiki)
 
 
